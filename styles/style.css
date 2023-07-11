@@ -1,0 +1,119 @@
+header{
+    display: flex;
+    width: 1920px;
+height: 850px;
+flex-shrink: 0;
+background: rgba(229, 84, 115, 0.10);
+}
+h1{
+    color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+display: flex;
+width: 708px;
+flex-direction: column;
+flex-shrink: 0;
+}
+#title_img{
+    height: 600px;
+    margin-top: 50px;
+    margin-left: 97px;
+}
+.title_txt{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.front_btn{
+    border: none;
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.support_bar{
+    list-style: none;
+    display: flex;
+    text-align: center;
+    background: #2727270D;
+    margin-top: 100px;
+}
+.support_bar >li{
+    margin-right: 250px;
+}
+#off{
+    margin-top: 100px;
+    background: rgba(229, 84, 115, 0.10);
+}
+#off h3{
+    color: #272727;
+    font-family: Lato;
+    font-size: 50px;
+}
+#off  h3  span{
+    color: #E55473;
+}
+#off h3 p{
+    display: flex;
+width: 594px;
+flex-direction: column;
+flex-shrink: 0;
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.off_img{
+    margin-left: 100px;
+}
+#off ul{
+    text-align: center;
+    list-style: none;
+    display: flex;
+}
+.instragram{
+    margin-top: 100px;
+}
+.instragram h2 {
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.instragram p{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.items{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.items img{
+    width: 250px;
+    margin-right: 50px;
+}
